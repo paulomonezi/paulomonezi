@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Contato LinkedIn e e-mail abaixo!
+  ### Contato abaixo:
  
 <div> 
 
