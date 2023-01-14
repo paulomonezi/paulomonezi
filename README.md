@@ -12,7 +12,6 @@
 
 - 📚 On my way to the top
    
-   <br><br>
   ## ⚙️ &nbsp;GitHub Analytics
  <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonezi&layout=compact&langs_count=6&theme=tokyonight"/>
