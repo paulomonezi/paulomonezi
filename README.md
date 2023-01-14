@@ -3,7 +3,16 @@
  <div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomonezi&color=yellow" alt="Profile views" /> </p>
   <a href="https://github.com/paulomonezi">
-  
+   
+- 🔥 Junir Web Developer  
+
+- 🔭 I’m currently working at Vale Up Soluções
+
+- 🎸 Fenomenal guitarrist (and a modest aswell), inlove with all kind of music, especially the good old rock'n'roll
+
+- 📚 On my way to the top
+   
+   
   ## ⚙️ &nbsp;GitHub Analytics
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomonezi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,7 +43,7 @@
  
  <br>
  
-  ### ✉️ Contato:
+  ### ✉️ Contact:
  
 <div> 
 
