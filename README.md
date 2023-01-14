@@ -1,10 +1,10 @@
-<img align="right" heigh="500em" src="https://raw.githubusercontent.com/gist/paulomonezi/f17f81da11d58c161b0506486d246d55/raw/55ef32544081c51587605c50c2845409c6138bf8/githubcard.svg"/>
+<img align="right" heigh="200em" src="https://raw.githubusercontent.com/gist/paulomonezi/f17f81da11d58c161b0506486d246d55/raw/55ef32544081c51587605c50c2845409c6138bf8/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo Monezi</h1>
  <div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomonezi&color=yellow" alt="Profile views" /> </p>
   <a href="https://github.com/paulomonezi">
    
-- 🔥 Junir Web Developer  
+- 🔥 Junior Web Developer  
 
 - 🔭 I’m currently working at Vale Up Soluções
 
@@ -12,11 +12,11 @@
 
 - 📚 On my way to the top
    
-   
+   <br><br>
   ## ⚙️ &nbsp;GitHub Analytics
   
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomonezi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonezi&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomonezi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonezi&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
 
