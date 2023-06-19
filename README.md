@@ -4,7 +4,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomonezi&color=yellow" alt="Profile views" /> </p>
   <a href="https://github.com/paulomonezi">
    
-- 🔥 Junior Web Developer  
+- 🔥 Frontend Developer  
 
 - 🔭 I’m currently working at Vale Up Soluções
 
